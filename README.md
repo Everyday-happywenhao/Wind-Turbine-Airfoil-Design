@@ -57,4 +57,4 @@ Defined optimization constraints with wind speed of 11m/s, 3 blades, tip-speed r
 ### Performance Improvement Comparison
 Compared to most commercial vertical axis wind turbines with power coefficients ranging from 0.28 to 0.32, this device achieves a performance improvement of 18.5% to 28.7%.
 
-## Project Structure
+
